@@ -6,11 +6,11 @@ https://akgblockchain.com (coming soon)
 
 Explorer
 
-http://68.183.115.208:3001/
+http://explorer.akgblockchain.com:3001
 
 Pool Mining
 
-http://68.183.115.208:3002/
+http://explorer.akgblockchain.com:3002
 
 
 
