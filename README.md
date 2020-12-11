@@ -2,7 +2,7 @@ AKGcoin Core
 =====================================
 
 
-https://akgblockchain.com
+https://akgblockchain.com (coming soon)
 
 Explorer
 
