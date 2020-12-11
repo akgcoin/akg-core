@@ -1,13 +1,15 @@
 AKGcoin Core
 =====================================
 
-[![Build Status](https://travis-ci.org/akgcoin-project/akgcoin.svg?branch=master)](https://travis-ci.org/akgcoin-project/akgcoin)
 
 https://akgblockchain.com
 
 Explorer
+
 http://68.183.115.208:3001/
+
 Pool Mining
+
 http://68.183.115.208:3002/
 
 
