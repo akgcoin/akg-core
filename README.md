@@ -10,7 +10,7 @@ http://explorer.akgblockchain.com:3001
 
 Pool Mining
 
-http://explorer.akgblockchain.com:3002
+http://pool.akgblockchain.com:3002
 
 
 
